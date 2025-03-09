@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #B5A8D5;
+}
+
+button {
+    color:#B5A8D5 ;
+    background-color: #4D55CC;
+}
+
+h1 {
+  color: #211C84;
+}
+
+.green-border {
+  display:inline;
+  color:green;
+  border: 2px solid green;
+}
+.red-border {
+  display:inline;
+  color:red;
+  border: 2px solid red;
+}
+.black-border {
+display:inline;
+  color:black;
+  border: 2px solid black;
+}
